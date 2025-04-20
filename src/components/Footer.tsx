@@ -20,8 +20,8 @@ const Footer: React.FC = () => {
 
                 <div className="border-t border-gray-200 dark:border-gray-800 mt-8 pt-8 text-center">
                     <p className="text-sm text-gray-600 dark:text-gray-400">
-                        &copy; {new Date().getFullYear()} OSINT Framework. All
-                        rights reserved.
+                        &copy; {new Date().getFullYear()} BRAHMĀSTRA. All rights
+                        reserved.
                     </p>
                     <p className="text-xs text-gray-500 dark:text-gray-500 mt-2">
                         This website is for educational purposes only. Always
