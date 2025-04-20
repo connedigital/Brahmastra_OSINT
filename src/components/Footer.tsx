@@ -1,56 +1,36 @@
-import React from 'react';
-import { Github, Twitter, Mail } from 'lucide-react';
+import React from "react";
+import { Github, Twitter, Mail } from "lucide-react";
 
 const Footer: React.FC = () => {
-  return (
-    <footer className="bg-gray-100 dark:bg-gray-900 py-10">
-      <div className="container mx-auto px-4">
-        <div className="flex flex-col md:flex-row justify-between items-center">
-          <div className="mb-6 md:mb-0">
-            <h2 className="text-xl font-bold text-gray-800 dark:text-white">
-              OSINT<span className="text-blue-500">Framework</span>
-            </h2>
-            <p className="text-gray-600 dark:text-gray-400 mt-2">
-              A collection of OSINT resources for intelligence gathering.
-            </p>
-          </div>
-          
-          <div className="flex space-x-6">
-            <a
-              href="#"
-              className="text-gray-600 hover:text-blue-500 dark:text-gray-400 dark:hover:text-blue-400 transition-colors"
-              aria-label="GitHub"
-            >
-              <Github className="w-5 h-5" />
-            </a>
-            <a
-              href="#"
-              className="text-gray-600 hover:text-blue-500 dark:text-gray-400 dark:hover:text-blue-400 transition-colors"
-              aria-label="Twitter"
-            >
-              <Twitter className="w-5 h-5" />
-            </a>
-            <a
-              href="mailto:contact@osintframework.com"
-              className="text-gray-600 hover:text-blue-500 dark:text-gray-400 dark:hover:text-blue-400 transition-colors"
-              aria-label="Email"
-            >
-              <Mail className="w-5 h-5" />
-            </a>
-          </div>
-        </div>
-        
-        <div className="border-t border-gray-200 dark:border-gray-800 mt-8 pt-8 text-center">
-          <p className="text-sm text-gray-600 dark:text-gray-400">
-            &copy; {new Date().getFullYear()} OSINT Framework. All rights reserved.
-          </p>
-          <p className="text-xs text-gray-500 dark:text-gray-500 mt-2">
-            This website is for educational purposes only. Always respect privacy and adhere to applicable laws.
-          </p>
-        </div>
-      </div>
-    </footer>
-  );
+    return (
+        <footer className="bg-gray-100 dark:bg-gray-900 py-10">
+            <div className="container mx-auto px-4">
+                <div className="flex flex-col md:flex-row justify-between items-center">
+                    <div className="mb-6 md:mb-0">
+                        <h2 className="text-xl font-bold text-gray-800 dark:text-white">
+                            OSINT
+                            <span className="text-blue-500">Framework</span>
+                        </h2>
+                        <p className="text-gray-600 dark:text-gray-400 mt-2">
+                            A collection of OSINT resources for intelligence
+                            gathering.
+                        </p>
+                    </div>
+                </div>
+
+                <div className="border-t border-gray-200 dark:border-gray-800 mt-8 pt-8 text-center">
+                    <p className="text-sm text-gray-600 dark:text-gray-400">
+                        &copy; {new Date().getFullYear()} OSINT Framework. All
+                        rights reserved.
+                    </p>
+                    <p className="text-xs text-gray-500 dark:text-gray-500 mt-2">
+                        This website is for educational purposes only. Always
+                        respect privacy and adhere to applicable laws.
+                    </p>
+                </div>
+            </div>
+        </footer>
+    );
 };
 
 export default Footer;
