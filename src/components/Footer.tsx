@@ -8,8 +8,8 @@ const Footer: React.FC = () => {
                 <div className="flex flex-col md:flex-row justify-between items-center">
                     <div className="mb-6 md:mb-0">
                         <h2 className="text-xl font-bold text-gray-800 dark:text-white">
-                            OSINT
-                            <span className="text-blue-500">Framework</span>
+                            BRAHM
+                            <span className="text-blue-500">ĀSTRA</span>
                         </h2>
                         <p className="text-gray-600 dark:text-gray-400 mt-2">
                             A collection of OSINT resources for intelligence
