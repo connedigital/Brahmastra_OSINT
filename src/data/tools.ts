@@ -260,6 +260,14 @@ export const tools: Tool[] = [
         tags: ["email", "breach", "security", "phone"],
     },
     {
+        id: "hudsonrock",
+        name: "Hudson Rock",
+        description: "Check if a specific asset was compromised by the Infostealer malware",
+        url: "https://www.hudsonrock.com/threat-intelligence-cybercrime-tools",
+        category: "Email",
+        tags: ["email", "breach", "security", "phone"],
+    },
+    {
         id: "intelx",
         name: "Intelligence X",
         description:
